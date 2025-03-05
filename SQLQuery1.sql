@@ -1,0 +1,1 @@
+CREATE DATABASE Student;CREATE TABLE Student(ID int PRIMARY KEY,FirstName VARCHAR(50) NOT NULL,LastName VARCHAR(50) NOT NULL,course VARCHAR(50));INSERT  INTO Student(1, 'Ayushi', 'Umbarkar','SQL');
